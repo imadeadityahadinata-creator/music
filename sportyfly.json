@@ -5,13 +5,13 @@
     "artist": "Bruno Mars", 
     "audio_url": "https://res.cloudinary.com/dbhind7lq/video/upload/v1765538653/Bruno_Mars_-_When_I_Was_Your_Man_1_pvr8wf.mp3", 
     "album_art": "https://res.cloudinary.com/dbhind7lq/image/upload/v1765538918/bruno_mars_foto_sjtx1l.png"
-  },
-   { 
+  },
+  { 
     "id": 2, 
     "title": "Bergema Sampai Selamanya", 
     "artist": "Nadhif Basalamah", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764856897/Nadhif_Basalamah_-_bergema_sampai_selamanya_Official_Lyric_Video_bgnpaw.mp3", 
     "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764860766/bergemasampaiselamanya_nnta5z.jpg"
-  }
+  }
   
 ]
