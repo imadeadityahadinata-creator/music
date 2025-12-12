@@ -13,8 +13,22 @@
     "audio_url": "https://res.cloudinary.com/dbhind7lq/video/upload/v1765541562/John_Legend_-_All_Of_Me_Lyrics_gilqhc.mp3", 
     "album_art": "https://res.cloudinary.com/dbhind7lq/image/upload/v1765541663/jhon_legend_i2lvzv.png"
   },
-  { 
+    { 
     "id": 3, 
+    "title": "Die With A Smile", 
+    "artist": "Bruno Mars", 
+    "audio_url": "https://res.cloudinary.com/dbhind7lq/video/upload/v1765542281/Lady_Gaga_Bruno_Mars_-_Die_With_A_Smile_Official_Music_Video_kPa7bsKwL-c_b726cw.mp3", 
+    "album_art": "https://res.cloudinary.com/dbhind7lq/image/upload/v1765542228/download_sbgqqp.png"
+  },
+    { 
+    "id": 4, 
+    "title": "Talking To The Moon", 
+    "artist": "Bruno Mars", 
+    "audio_url": "https://res.cloudinary.com/dbhind7lq/video/upload/v1765541978/Talking_to_the_Moon_asidxk.mp3", 
+    "album_art": "https://res.cloudinary.com/dbhind7lq/image/upload/v1765538918/bruno_mars_foto_sjtx1l.png"
+  },
+  { 
+    "id": 5, 
     "title": "Bergema Sampai Selamanya", 
     "artist": "Nadhif Basalamah", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764856897/Nadhif_Basalamah_-_bergema_sampai_selamanya_Official_Lyric_Video_bgnpaw.mp3", 
