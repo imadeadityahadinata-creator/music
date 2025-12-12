@@ -29,6 +29,13 @@
   },
   { 
     "id": 5, 
+    "title": "Favorite Girl", 
+    "artist": "Justin Bieber", 
+    "audio_url": "https://res.cloudinary.com/dbhind7lq/video/upload/v1765546723/Justin_Bieber_-_Favorite_Girl_Lyrics_adwofh.mp3", 
+    "album_art": "https://res.cloudinary.com/dbhind7lq/image/upload/v1765546713/download_2_htmwni.png"
+  },
+  { 
+    "id": 6, 
     "title": "Bergema Sampai Selamanya", 
     "artist": "Nadhif Basalamah", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764856897/Nadhif_Basalamah_-_bergema_sampai_selamanya_Official_Lyric_Video_bgnpaw.mp3", 
