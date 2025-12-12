@@ -8,6 +8,13 @@
   },
   { 
     "id": 2, 
+    "title": "All Of Me", 
+    "artist": "Jhon Legend", 
+    "audio_url": "https://res.cloudinary.com/dbhind7lq/video/upload/v1765541562/John_Legend_-_All_Of_Me_Lyrics_gilqhc.mp3", 
+    "album_art": "https://res.cloudinary.com/dbhind7lq/image/upload/v1765541663/jhon_legend_i2lvzv.png"
+  },
+  { 
+    "id": 3, 
     "title": "Bergema Sampai Selamanya", 
     "artist": "Nadhif Basalamah", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764856897/Nadhif_Basalamah_-_bergema_sampai_selamanya_Official_Lyric_Video_bgnpaw.mp3", 
